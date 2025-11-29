@@ -13,7 +13,7 @@ is being drawn as fast as possible.  Points are awarded for guessing quickly,
 and players take turns drawing.  There are two multiplayer game modes, each 
 with the same gameplay but leveraging a different API:
 
-### Real-time Multiplayer Mode ("Online" Mode)
+### Real-time Multiplayer Mode ("online" Mode)
 8 Bit Artist can be played with 2-4 players anywhere in the world using the 
 Play Game Services Real-time Multiplayer API.  After signing in with your 
 Google account, press the **Play Online** button to being matchmaking.  You 
